@@ -7,6 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Perl    11 hrs 39 mins  █████████████████████████   99.90 % 
+Perl    10 hrs 9 mins   █████████████████████████   99.82 % 
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
