@@ -7,6 +7,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Rust   22 mins         █████████████████████████   100.00 % 
+Rust   22 mins         ████████████████████████▒   97.32 % 
 ```
 <!--END_SECTION:waka-->
