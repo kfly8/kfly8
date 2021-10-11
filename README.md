@@ -7,9 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Perl         5 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   45.18 % 
-Markdown     4 hrs 47 mins   █████████▒░░░░░░░░░░░░░░░   37.22 % 
-JavaScript   2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Perl         5 hrs 28 mins   ████████████░░░░░░░░░░░░░   48.01 % 
+Markdown     3 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   32.03 % 
+JavaScript   2 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
