@@ -7,6 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   6 hrs 32 mins   █████████████████████████   99.37 % 
+Markdown   6 hrs 39 mins   ██████████████████████░░░   88.02 % 
+Perl       51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Ruby       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
