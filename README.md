@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        28 mins         ██████████████▒░░░░░░░░░░   58.00 % 
-Mustache     19 mins         ██████████░░░░░░░░░░░░░░░   40.18 % 
+Other        29 mins         █████████████░░░░░░░░░░░░   52.05 % 
+Mustache     26 mins         ███████████▓░░░░░░░░░░░░░   46.38 % 
 ```
 <!--END_SECTION:waka-->
