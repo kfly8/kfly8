@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   20 mins         ██████████████████████▓░░   90.21 %
-Ruby        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
