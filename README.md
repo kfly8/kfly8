@@ -8,8 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   12 mins         ██████████████▒░░░░░░░░░░   57.02 %
-Other      6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+Markdown   6 mins          ██████████████████▓░░░░░░   74.31 %
+HTML       2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
 ```
 
 <!--END_SECTION:waka-->
