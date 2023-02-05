@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Perl         17 hrs 38 mins  ████████████░░░░░░░░░░░░░   47.55 %
-TypeScript   11 hrs 14 mins  ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-Markdown     2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-JavaScript   2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-SQL          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Vim Script   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Perl         16 hrs 36 mins  ██████████░░░░░░░░░░░░░░░   40.58 %
+TypeScript   12 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Markdown     4 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Vim Script   2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+JavaScript   2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+SQL          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
